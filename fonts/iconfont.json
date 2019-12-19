@@ -1,0 +1,37 @@
+{
+  "id": "1461390",
+  "name": "datafilter",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2897187",
+      "name": "查看",
+      "font_class": "chakan",
+      "unicode": "e73c",
+      "unicode_decimal": 59196
+    },
+    {
+      "icon_id": "3702456",
+      "name": "下 拉",
+      "font_class": "xiala",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "5674394",
+      "name": "云",
+      "font_class": "yun",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "11244904",
+      "name": "创建任务",
+      "font_class": "chuangjianrenwu",
+      "unicode": "e7e0",
+      "unicode_decimal": 59360
+    }
+  ]
+}
